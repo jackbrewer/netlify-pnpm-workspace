@@ -38,3 +38,5 @@
 4. Create the Next.js website
    1. Go to the `packages` folder
    2. Run `pnpm create next-app --typescript`
+
+Manual edit
